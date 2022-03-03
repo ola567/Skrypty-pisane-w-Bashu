@@ -1,0 +1,29 @@
+./" Manpage for duzyskrypt
+.TH man 1 "14.05.2021" "duzyskrypt manual"
+.SH NAME
+duzyskrypt - my little daily day organizer
+.SH SYNOPSIS
+ ./duzyskrypt
+.SH DESCRIPTION
+This is a script which helps in organizing daily day routine and make it a little bit easier. 
+.P
+User can choose one of given options:
+ - To do list
+ - Create shopping list
+ - Stay fit
+ - Important dates
+.P
+First three options have also other options. For instance, "to do list" and "shopping list" have options like delete entire list, delete one item or see the list. In turn. "stay fit" enable user to count BMI, count burned calories and choose exercises for the day. "Important dates" has no more options inside and writes the result into the txt file.
+.P
+There are used zenity and yad.
+.SH OPTIONS
+duzyskrypt does not take any options
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+written by Aleksandra Hein (email: aleksandra.hein@o2.pl)
+.SH REPORTING BUGS
+aleksandra.hein@o2.pl/canceling the answer
+
+
+
